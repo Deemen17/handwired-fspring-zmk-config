@@ -1,7 +1,7 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_FSPRING
+if SHIELD_HANDWIRED_FSPRING
 
 config ZMK_KEYBOARD_NAME
     default "FSPRING-ZMK-BLE"
